@@ -1,3 +1,6 @@
+/*
+ * this is test project
+ */
 package packt.book.jee_eclipse.ch2.bean;
 
 public class LoginBean {
